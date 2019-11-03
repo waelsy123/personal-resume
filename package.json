@@ -1,0 +1,23 @@
+{
+  "name": "personal-resume",
+  "version": "1.0.0",
+  "description": "my freelance resume website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waelsy123/personal-resume.git"
+  },
+  "author": "Wael Almattar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waelsy123/personal-resume/issues"
+  },
+  "homepage": "https://github.com/waelsy123/personal-resume#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
