@@ -523,16 +523,6 @@ svg {
 	position: relative;
 	z-index: 9;
 }
-.about_image:before {
-    content: "";
-    width: 60%;
-    height: 98%;
-    top: 13px;
-    right: 203px;
-    position: absolute;
-    border: 10px solid #1461ff;
-    z-index: -1;
-}
 .about_image:after {
     content: "";
     width: 60%;
