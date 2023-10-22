@@ -19,6 +19,6 @@
   "homepage": "https://github.com/waelsy123/personal-resume#readme",
   "dependencies": {
     "ejs": "^2.7.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
